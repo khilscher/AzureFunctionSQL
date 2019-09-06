@@ -1,2 +1,2 @@
 # AzureFunctionSQL
-An sample Azure Function using Azure SQL without the use of an ORM.
+A sample Azure Function with an HTTP trigger accessing Azure SQL without the use of an ORM.
